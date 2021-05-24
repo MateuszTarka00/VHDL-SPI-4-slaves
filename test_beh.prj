@@ -1,0 +1,2 @@
+vhdl work "uut.vhd"
+vhdl work "test.vhd"

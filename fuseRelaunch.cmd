@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/studia/Vlsi_projekty/SPI/TB_isim_beh.exe" -prj "C:/studia/Vlsi_projekty/SPI/TB_beh.prj" "work.TB" 
